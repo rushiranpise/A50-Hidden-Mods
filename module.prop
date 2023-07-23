@@ -1,7 +1,7 @@
-id=MMT-Ex
-name=Magisk Module Template Extended
-version=v3.0
-versionCode=12
-author=Zackptg5
-description=Magisk Module Template Extended
-updateJson=https://raw.githubusercontent.com/Zackptg5/MMT-Extended/master/update.json
+id=a50hiddenmods
+name=A50 Hidden Mods
+version=v1.0
+versionCode=10
+author=rushiranpise
+description=This Module adds many Flagship features to the A50
+updateJson=https://raw.githubusercontent.com/rushiranpise/A50-Hidden-Mods/main/update.json
