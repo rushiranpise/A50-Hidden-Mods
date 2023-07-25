@@ -1,7 +1,7 @@
 id=a50hiddenmods
 name=A50 Hidden Mods
-version=v1.0
-versionCode=10
+version=v1.1
+versionCode=11
 author=rushiranpise
 description=This Module adds many Flagship features to the A50
 updateJson=https://raw.githubusercontent.com/rushiranpise/A50-Hidden-Mods/main/update.json
